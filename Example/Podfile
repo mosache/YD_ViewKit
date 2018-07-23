@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'YD_ViewKit_Example' do
+  pod 'YD_ViewKit', :path => '../'
+
+  target 'YD_ViewKit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
