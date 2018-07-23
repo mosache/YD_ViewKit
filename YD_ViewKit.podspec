@@ -21,11 +21,11 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/330256579@qq.com/YD_ViewKit'
+  s.homepage         = 'https://github.com/mosache/YD_ViewKit.git'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { '330256579@qq.com' => '330256579@qq.com' }
-  s.source           = { :git => 'https://github.com/330256579@qq.com/YD_ViewKit.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/mosache/YD_ViewKit.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'

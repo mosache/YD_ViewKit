@@ -1,0 +1,6 @@
+framework module YD_ViewKit {
+  umbrella header "YD_ViewKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

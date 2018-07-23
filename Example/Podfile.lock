@@ -1,0 +1,16 @@
+PODS:
+  - YD_ViewKit (0.1.0)
+
+DEPENDENCIES:
+  - YD_ViewKit (from `../`)
+
+EXTERNAL SOURCES:
+  YD_ViewKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  YD_ViewKit: 9931a92004d7504dc7f1e2a2a5616546ec3f1e82
+
+PODFILE CHECKSUM: f7895b2af509f3bf54b872c851863ae6b00b5090
+
+COCOAPODS: 1.5.0
